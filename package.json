@@ -1,0 +1,13 @@
+{
+  "name": "servicio-de-desbroce",
+  "version": "1.0.0",
+  "description": "Website for Land Clearing Services",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server frontend",
+    "dev": "npx http-server frontend -c-1 -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
